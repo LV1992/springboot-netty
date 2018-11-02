@@ -1,0 +1,6 @@
+netty:
+  port: 11111
+  #最大线程数量
+  maxThreads: 1024
+  #最大数据包长度
+  maxFrameLength: 65535
